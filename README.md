@@ -18,8 +18,6 @@ Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 * 2 layers were used because three just made the dataset more complicated. 
 
-Were you able to achieve the target model performance?
-* This was hard to determine but I beleive so 
 
 What steps did you take to try and increase model performance?
 * I tried to bring back the name column and just have 2 layers as well as increase the epochs
